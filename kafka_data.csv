@@ -1,0 +1,147 @@
+source,co2_level,location,timestamp
+Agriculture,456,Timor-Leste,2024-04-28 16:10:50
+Factory,316,Cyprus,2024-04-28 16:10:53
+Shipping,338,Cook Islands,2024-04-28 16:10:56
+Agriculture,919,Chad,2024-04-28 16:10:59
+Power Plant,888,Belize,2024-04-28 16:11:02
+Factory,447,Niger,2024-04-28 16:11:05
+Power Plant,410,Bosnia and Herzegovina,2024-04-29 00:14:54
+Power Plant,867,Cuba,2024-04-29 00:14:57
+Shipping,563,Mongolia,2024-04-29 00:14:59
+Agriculture,396,Nicaragua,2024-04-29 00:15:02
+Deforestation,337,Solomon Islands,2024-04-29 00:15:05
+Deforestation,845,Tajikistan,2024-04-29 00:15:08
+Vehicle,836,Bahrain,2024-04-29 00:15:11
+Shipping,383,Western Sahara,2024-04-29 00:15:14
+Shipping,469,Dominican Republic,2024-04-29 00:15:17
+Vehicle,343,Jamaica,2024-04-29 00:15:20
+Deforestation,805,Nigeria,2024-04-29 00:15:23
+Power Plant,837,New Zealand,2024-04-29 00:15:26
+Agriculture,515,Russian Federation,2024-04-29 00:15:29
+Deforestation,436,Netherlands Antilles,2024-04-29 00:15:41
+Power Plant,757,Costa Rica,2024-04-29 00:15:44
+Vehicle,866,Saint Martin,2024-04-29 00:15:47
+Factory,548,Saint Vincent and the Grenadines,2024-04-29 00:15:50
+Deforestation,493,Bouvet Island (Bouvetoya),2024-04-29 00:15:53
+Vehicle,790,South Africa,2024-04-29 00:15:56
+Construction,960,New Zealand,2024-04-29 00:15:59
+Construction,625,Brunei Darussalam,2024-04-29 00:16:02
+Vehicle,706,Somalia,2024-04-29 00:16:05
+Factory,815,Saint Lucia,2024-04-29 00:16:08
+Agriculture,566,San Marino,2024-04-29 00:16:11
+Shipping,440,Azerbaijan,2024-04-29 00:16:14
+Vehicle,427,Mali,2024-04-29 00:16:17
+Agriculture,377,Falkland Islands (Malvinas),2024-04-29 00:16:20
+Power Plant,924,Ethiopia,2024-04-29 00:16:23
+Construction,977,Aruba,2024-04-29 00:16:26
+Power Plant,656,Switzerland,2024-04-29 00:16:29
+Power Plant,568,Korea,2024-04-29 00:16:32
+Deforestation,343,Estonia,2024-04-29 00:16:35
+Construction,742,Kazakhstan,2024-04-29 00:16:38
+Vehicle,505,Cook Islands,2024-04-29 00:16:41
+Shipping,398,Greenland,2024-04-29 00:16:44
+Agriculture,419,Costa Rica,2024-04-29 00:16:47
+Agriculture,593,Guernsey,2024-04-29 00:16:50
+Power Plant,942,Lao People's Democratic Republic,2024-04-29 00:16:53
+Shipping,351,Turkmenistan,2024-04-29 00:16:56
+Agriculture,684,Canada,2024-04-29 00:16:59
+Power Plant,442,Nepal,2024-04-29 00:17:02
+Shipping,873,United States Minor Outlying Islands,2024-04-29 00:17:05
+Factory,930,Cape Verde,2024-04-29 00:17:08
+Deforestation,431,Ethiopia,2024-04-29 00:17:11
+Factory,908,Greece,2024-04-29 00:17:14
+Vehicle,550,Turkmenistan,2024-04-29 00:17:17
+Factory,968,American Samoa,2024-04-29 00:17:20
+Agriculture,811,Burundi,2024-04-29 00:17:23
+Factory,730,Ukraine,2024-04-29 00:17:26
+Deforestation,841,Bolivia,2024-04-29 00:17:29
+Factory,342,Slovenia,2024-04-29 00:17:32
+Shipping,309,Syrian Arab Republic,2024-04-29 00:17:35
+Vehicle,523,Nepal,2024-04-29 00:17:38
+Shipping,304,Cook Islands,2024-04-29 00:17:41
+Shipping,930,Venezuela,2024-04-29 00:17:44
+Deforestation,424,Tuvalu,2024-04-29 00:17:47
+Deforestation,930,Gibraltar,2024-04-29 00:17:50
+Power Plant,777,Peru,2024-04-29 00:17:53
+Vehicle,822,French Polynesia,2024-04-29 00:17:56
+Factory,310,Isle of Man,2024-04-29 00:17:59
+Factory,766,Tanzania,2024-04-29 00:18:02
+Construction,606,Cocos (Keeling) Islands,2024-04-29 00:18:05
+Vehicle,772,Ukraine,2024-04-29 00:18:08
+Deforestation,881,United States of America,2024-04-29 00:18:11
+Deforestation,694,Gambia,2024-04-29 00:18:14
+Agriculture,877,American Samoa,2024-04-29 00:18:17
+Shipping,895,Azerbaijan,2024-04-29 00:18:20
+Construction,826,Seychelles,2024-04-29 00:18:23
+Factory,364,French Guiana,2024-04-29 00:18:26
+Vehicle,380,Brunei Darussalam,2024-04-29 00:18:29
+Agriculture,922,Iran,2024-04-29 00:18:32
+Construction,696,Liechtenstein,2024-04-29 00:18:35
+Power Plant,880,Tunisia,2024-04-29 00:18:38
+Agriculture,617,Puerto Rico,2024-04-29 00:18:41
+Factory,807,Gabon,2024-04-29 00:18:44
+Shipping,781,Poland,2024-04-29 00:18:47
+Deforestation,613,Sierra Leone,2024-04-29 00:18:50
+Vehicle,678,Northern Mariana Islands,2024-04-29 00:18:53
+Power Plant,415,Kiribati,2024-04-29 00:18:56
+Power Plant,459,Senegal,2024-04-29 00:18:59
+Power Plant,664,Sri Lanka,2024-04-29 00:19:02
+Factory,714,North Macedonia,2024-04-29 00:19:05
+Vehicle,841,Uruguay,2024-04-29 00:19:08
+Power Plant,541,French Southern Territories,2024-04-29 00:19:11
+Agriculture,824,Saint Kitts and Nevis,2024-04-29 00:19:14
+Vehicle,560,Gabon,2024-04-29 00:19:17
+Power Plant,909,Martinique,2024-04-29 00:19:20
+Power Plant,306,Comoros,2024-04-29 00:19:23
+Agriculture,488,Martinique,2024-04-29 00:19:26
+Power Plant,833,Guatemala,2024-04-29 00:19:29
+Construction,592,Kyrgyz Republic,2024-04-29 00:19:32
+Deforestation,666,Nepal,2024-04-29 00:19:35
+Agriculture,901,American Samoa,2024-04-29 00:19:38
+Deforestation,999,French Polynesia,2024-04-29 00:19:41
+Deforestation,407,Tanzania,2024-04-29 00:19:44
+Deforestation,485,Zambia,2024-04-29 00:19:47
+Construction,857,Ethiopia,2024-04-29 00:19:50
+Construction,626,Saint Kitts and Nevis,2024-04-29 00:19:53
+Agriculture,423,Martinique,2024-04-29 00:19:56
+Agriculture,663,Tokelau,2024-04-29 00:19:59
+Power Plant,773,Reunion,2024-04-29 00:20:02
+Shipping,514,Cayman Islands,2024-04-29 00:20:05
+Construction,822,Palestinian Territory,2024-04-29 00:20:08
+Vehicle,307,Cyprus,2024-04-29 00:20:11
+Deforestation,713,Svalbard & Jan Mayen Islands,2024-04-29 00:20:14
+Shipping,551,American Samoa,2024-04-29 00:20:17
+Power Plant,523,Serbia,2024-04-29 00:20:20
+Vehicle,968,Chad,2024-04-29 00:20:23
+Construction,476,French Southern Territories,2024-04-29 00:20:26
+Construction,315,Kyrgyz Republic,2024-04-29 00:20:29
+Construction,573,Burkina Faso,2024-04-29 00:20:32
+Construction,333,Fiji,2024-04-29 00:20:35
+Shipping,621,Solomon Islands,2024-04-29 00:20:38
+Factory,646,Djibouti,2024-04-29 00:20:41
+Agriculture,508,Isle of Man,2024-04-29 00:20:44
+Factory,804,Uruguay,2024-04-29 00:20:47
+Shipping,584,Angola,2024-04-29 00:20:50
+Factory,995,Ukraine,2024-04-29 00:20:53
+Agriculture,480,Qatar,2024-04-29 00:20:56
+Deforestation,581,Falkland Islands (Malvinas),2024-04-29 00:20:59
+Deforestation,382,Tonga,2024-04-29 00:21:02
+Agriculture,355,Japan,2024-04-29 00:21:05
+Power Plant,840,Cameroon,2024-04-29 00:21:08
+Factory,605,Brazil,2024-04-29 00:21:11
+Factory,319,French Guiana,2024-04-29 00:21:14
+Shipping,316,Russian Federation,2024-04-29 00:21:17
+Factory,743,Cuba,2024-04-29 00:21:20
+Deforestation,414,Libyan Arab Jamahiriya,2024-04-29 00:21:23
+Agriculture,316,Hong Kong,2024-04-29 00:21:26
+Construction,447,Heard Island and McDonald Islands,2024-04-29 00:21:29
+Agriculture,867,Dominican Republic,2024-04-29 00:21:32
+Shipping,830,Slovenia,2024-04-29 00:21:35
+Deforestation,501,Slovakia (Slovak Republic),2024-04-29 00:21:38
+Power Plant,319,Gibraltar,2024-04-29 00:21:41
+Factory,788,Cameroon,2024-04-29 00:21:44
+Deforestation,511,Ukraine,2024-04-29 00:21:47
+Construction,633,Swaziland,2024-04-29 00:21:50
+Vehicle,534,Equatorial Guinea,2024-04-29 00:21:53
+Factory,463,Botswana,2024-04-29 00:21:57
+Power Plant,594,Brunei Darussalam,2024-04-29 00:22:00
